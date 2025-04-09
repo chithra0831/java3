@@ -28,7 +28,7 @@ public class largestnumber {
 
        
         System.out.println("The largest number is: " + largest);
-        System.out.println("new added line");
+       
 
     
         scanner.close();
